@@ -1,12 +1,9 @@
 #!/bin/python
 import random,string
 """
-Youtube :
-www.youtube.com/c/riadhcoding
-www.youtube.com/c/pythonlife
 
 Instagram :
-https://www.instagram.com/riadh_coding
+https://www.instagram.com/Mantalstudioo
 
 """
 email = [
